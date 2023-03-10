@@ -1,0 +1,39 @@
+windown > perspective > Open Perspective > Java 
+------------------------------------------------------------------------------------------------------------------------------------------
+Dentro de src devemos criar 4 pacotes:
+- img
+- model (Banco de dados)
+- util
+- view (Interface)
+------------------------------------------------------------------------------------------------------------------------------------------
+Agenda:
+
+Criar uma pasta com o nome lib (1)
+
+-lib
+
+Adicionar icone na pasta img (2)
+- notepad.png
+-------------------------------------------------------------------------------------------------
+View:
+ 
+Criar arquivo agenda com o nome: Agenda.java
+
+New> Java > other > window builder > next > Agenda > Finish. 
+-------------------------------------------------------------------------------------------------
+Caso fechar o código 
+
+Window> perspective > reset perpesctive.
+
+-------------------------------------------------------------------------------------------------
+contentPane > mudar para layout absoluto
+
+convertfild > Permite trocar as propriedades por códigos 
+
+-------------------------------------------------------------------------------------------------
+Baixar o drive para fazer funcionar o Mysql
+
+Connector/J
+
+Criando uma classe model:
+model > new > class > renomear como DAO > finish 
